@@ -1,25 +1,16 @@
-## Welcome to OPTNET
+## Bem-vindo à OPTNET
 
-You can use the [editor on GitHub](https://github.com/fhenriquefv/optnet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A OPTNET Serviços de Informática LTDA é uma empresa de Tecnologia da Informação criada em 2008 e que atua na prestação de serviços de desenvolvimento de software e projetos de P & D voltados para a indústria de petróleo e gás.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Neste período foram desenvolvidas várias soluções voltadas para este setor em parceria com o Instituto Tecgraf da PUC-Rio em projetos financiados pela ANP.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Principais Projetos
 
-```markdown
-Syntax highlighted code block
+1. Orimizador de Programação de Navios de Cabotagem
+2. Otimizador de Alocação de Petróleo
+3. Otimizador de Programação de Navios de Longo Curso de Importação e de Exportação de Petróleo
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
